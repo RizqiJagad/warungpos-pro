@@ -1,0 +1,55 @@
+# WarungPOS Pro - Comprehensive Task List
+
+- [/] Phase 1: Project Initialization & Core Setup
+    - [ ] Initialize Next.js 14 project (App Router, TS, Tailwind)
+    - [ ] Configure shadcn/ui components
+    - [ ] Setup Prisma Schema for Postgres (NeonDB)
+    - [ ] Setup NextAuth.js for multi-role authentication
+    - [ ] Initialize Zustand (Store) & Dexie.js (IndexedDB)
+    - [ ] Setup GitFlow structure (main, develop branches)
+- [ ] Phase 2: Landing Page & App Distribution
+    - [ ] Marketing Website (`/`, `/features`, `/pricing`)
+    - [ ] Demo Page (`/demo` - read only)
+    - [ ] Installation Guide & PWA Download Page (`/download`)
+    - [ ] Professional UI/UX on the `/app` route (separate layout)
+- [ ] Phase 3: Product & Master Data Management
+    - [ ] Category Management
+    - [ ] Product CRUD (SKU, Barcode, Buy/Sell price, Unit)
+    - [ ] Excel Import/Export for products (Optional)
+    - [ ] Minimum stock configuration per product
+- [ ] Phase 4: Inventory & Supply Chain
+    - [ ] Real-time stock tracking (Automatic reduction on sale)
+    - [ ] Manual stock adjustment (Damaged/Lost/Correction)
+    - [ ] Supplier Management (Contact, Supplied products)
+    - [ ] Purchase Order (PO) creation & tracking
+    - [ ] Goods Receipt (Sistem Penerimaan Barang)
+- [ ] Phase 5: Point of Sale (POS) Implementation
+    - [ ] Fast & Intuitive POS UI
+    - [ ] Search & Barcode Scan integration
+    - [ ] Cart Management (Items, Discounts, Taxes)
+    - [ ] Multi-method Payment (Cash, QRIS, Transfer, E-wallet)
+    - [ ] Digital Receipt Generation (WhatsApp/Email)
+- [ ] Phase 6: Customer & Loyalty Management
+    - [ ] Customer Database & Transaction History
+    - [ ] Customer Segmentation (Routine vs Regular)
+    - [ ] Credit Sales Management (Penjualan Kredit)
+    - [ ] Loyalty Program (Points/Discounts)
+- [ ] Phase 7: Reports, Analytics & Dashboard
+    - [ ] Dashboard Overview (Income summary, Today's sales, Low stock)
+    - [ ] Sales Reports (Daily, Weekly, Monthly)
+    - [ ] Best-selling Products report
+    - [ ] Profit & Loss Statement (Laporan Laba Rugi)
+- [ ] Phase 8: System Settings & Multi-User
+    - [ ] Warung Profile Settings
+    - [ ] Transaction Settings (Taxes, Format)
+    - [ ] Roles: Pemilik, Kasir, Manajer, Super Admin
+    - [ ] Quick PIN for Cashier Login
+- [ ] Phase 9: Offset-First PWA & Sync Logic
+    - [ ] Workbox configuration (Service Worker)
+    - [ ] Static Asset Caching
+    - [ ] Background Sync for offline transactions
+    - [ ] Queue management & Conflict resolution (Last-write-wins)
+- [ ] Phase 10: Final Deployment & Polish
+    - [ ] Vercel Deployment configuration
+    - [ ] Vercel Cron setup for stock notifications
+    - [ ] Final UI/UX Polishing & Performance Tuning
