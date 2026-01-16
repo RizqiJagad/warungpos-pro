@@ -7,11 +7,11 @@
     - [x] Setup NextAuth.js for multi-role authentication
     - [x] Initialize Zustand (Store) & Dexie.js (IndexedDB)
     - [x] Setup GitFlow structure (main, develop branches)
-- [ ] Phase 2: Landing Page & App Distribution
-    - [ ] Marketing Website (`/`, `/features`, `/pricing`)
+- [x] Phase 2: Landing Page & App Distribution
+    - [x] Marketing Website (`/`, `/features`, `/pricing`)
     - [ ] Demo Page (`/demo` - read only)
-    - [ ] Installation Guide & PWA Download Page (`/download`)
-    - [ ] Professional UI/UX on the `/app` route (separate layout)
+    - [x] Installation Guide & PWA Download Page (`/download`)
+    - [x] Professional UI/UX on the `/app` route (separate layout)
 - [ ] Phase 3: Product & Master Data Management
     - [ ] Category Management
     - [ ] Product CRUD (SKU, Barcode, Buy/Sell price, Unit)
