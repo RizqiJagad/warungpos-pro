@@ -12,9 +12,9 @@
     - [ ] Demo Page (`/demo` - read only)
     - [x] Installation Guide & PWA Download Page (`/download`)
     - [x] Professional UI/UX on the `/app` route (separate layout)
-- [ ] Phase 3: Product & Master Data Management
-    - [ ] Category Management
-    - [ ] Product CRUD (SKU, Barcode, Buy/Sell price, Unit)
+- [/] Phase 3: Product & Master Data Management
+    - [x] Category Management
+    - [x] Product CRUD (SKU, Barcode, Buy/Sell price, Unit)
     - [ ] Excel Import/Export for products (Optional)
     - [ ] Minimum stock configuration per product
 - [ ] Phase 4: Inventory & Supply Chain
