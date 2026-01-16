@@ -1,12 +1,12 @@
 # WarungPOS Pro - Comprehensive Task List
 
-- [/] Phase 1: Project Initialization & Core Setup
-    - [ ] Initialize Next.js 14 project (App Router, TS, Tailwind)
-    - [ ] Configure shadcn/ui components
-    - [ ] Setup Prisma Schema for Postgres (NeonDB)
-    - [ ] Setup NextAuth.js for multi-role authentication
-    - [ ] Initialize Zustand (Store) & Dexie.js (IndexedDB)
-    - [ ] Setup GitFlow structure (main, develop branches)
+- [x] Phase 1: Project Initialization & Core Setup
+    - [x] Initialize Next.js 14 project (App Router, TS, Tailwind)
+    - [x] Configure shadcn/ui components
+    - [x] Setup Prisma Schema for Postgres (NeonDB)
+    - [x] Setup NextAuth.js for multi-role authentication
+    - [x] Initialize Zustand (Store) & Dexie.js (IndexedDB)
+    - [x] Setup GitFlow structure (main, develop branches)
 - [ ] Phase 2: Landing Page & App Distribution
     - [ ] Marketing Website (`/`, `/features`, `/pricing`)
     - [ ] Demo Page (`/demo` - read only)
